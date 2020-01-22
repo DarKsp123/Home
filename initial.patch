@@ -1,0 +1,10 @@
+Index: repka.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- repka.txt	(date 1578506372394)
++++ repka.txt	(date 1578506372394)
+@@ -0,0 +1,2 @@
++Посадил некто репку.
++Выросла репка большая.
